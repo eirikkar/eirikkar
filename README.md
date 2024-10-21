@@ -1,5 +1,22 @@
-## Hi there 👋
+## Hi there, I'm Eirik.
 
+Currently a bootcamp student at Kodehode<br><br>
+```csharp
+namespace Eirik
+{
+    public class Person
+    {
+        public string? Name = "Eirik";
+        public int Age = 35;
+        public List<string> interests = new()
+        {
+            "Coding",
+            "Gaming",
+            "Parenting"
+        };
+    }
+}
+```
 
 ## My toolbelt //
 <img width="80%" src="https://skillicons.dev/icons?i=cs,dotnet,html,css,docker,js,git,linux,vscode,java,azure">
