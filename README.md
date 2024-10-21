@@ -6,7 +6,7 @@ namespace Eirik
 {
     public class Person
     {
-        public string? Name = "Eirik";
+        public string Name = "Eirik";
         public int Age = 35;
         public List<string> interests = new()
         {
