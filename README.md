@@ -13,7 +13,8 @@ namespace Eirik
             "Coding",
             "Gaming",
             "Parenting",
-            "Workout"
+            "Weighlifting",
+            "Cycling"
         };
     }
 }
