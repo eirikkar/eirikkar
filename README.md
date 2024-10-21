@@ -12,7 +12,8 @@ namespace Eirik
         {
             "Coding",
             "Gaming",
-            "Parenting"
+            "Parenting",
+            "Workout"
         };
     }
 }
