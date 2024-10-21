@@ -2,7 +2,7 @@
 
 
 ## My toolbelt //
-<img width="80%" src="https://skillicons.dev/icons?i=js,html,css,docker,dotnet,cs,dotnet,git,linux,vscode,java,azure">
+<img width="80%" src="https://skillicons.dev/icons?i=js,html,css,docker,cs,dotnet,git,linux,vscode,java,azure">
 <a href="#">
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=eirikkar&show_icons=true&hide=prs,issues,contribs&rank_icon=github&theme=transparent" />
 </a>
