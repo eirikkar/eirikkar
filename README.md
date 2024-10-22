@@ -22,7 +22,7 @@ namespace Eirik
 ```
 
 ## My toolbelt //
-<img width="80%" src="https://skillicons.dev/icons?i=cs,dotnet,html,css,docker,js,git,linux,vscode,java,azure">
+<img width="100%" src="https://skillicons.dev/icons?i=cs,dotnet,html,css,docker,js,git,linux,vscode,java,azure">
 <a href="#">
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=eirikkar&show_icons=true&hide=prs,issues,contribs&rank_icon=github&theme=transparent" />
 </a>
