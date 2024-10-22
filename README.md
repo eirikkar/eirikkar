@@ -13,6 +13,7 @@ namespace Eirik
             "Coding",
             "Gaming",
             "Parenting",
+            "Formula 1,
             "Weighlifting",
             "Cycling"
         };
