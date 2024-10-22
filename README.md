@@ -1,6 +1,6 @@
-## Hi there, I'm Eirik.
+## Hi there,
 
-Currently a bootcamp student at Kodehode<br><br>
+I'm currently a bootcamp student at Kodehode<br><br>
 ```csharp
 namespace Eirik
 {
