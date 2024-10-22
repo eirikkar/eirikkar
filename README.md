@@ -13,7 +13,7 @@ public class Person
         "Gaming",
         "Parenting",
         "Formula 1",
-        "Weighlifting",
+        "Weightlifting",
         "Cycling",
     ];
 }
