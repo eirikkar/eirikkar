@@ -1,23 +1,30 @@
-## Hi there,
+##👋 Hi there,
 
-I'm currently a bootcamp student at Kodehode<br><br>
+
+I'm currently studying at a coding bootcamp called Kodehode, where I’m specializing in backend development. I have a strong focus on C#, and I enjoy building scalable, efficient systems that solve real-world problems. I’m always excited to learn new technologies and improve my skills through hands-on projects.
+
+🔧 Skills:
+
+   - Backend Development
+   - C# / .NET
+   - APIs & Microservices
+   - Database Management
+
+
 ```csharp
-namespace Eirik
+public class Person
 {
-    public class Person
-    {
-        public string Name = "Eirik";
-        public int Age = 35;
-        public List<string> interests =
-        [
-            "Coding",
-            "Gaming",
-            "Parenting",
-            "Formula 1",
-            "Weighlifting",
-            "Cycling"
-        ];
-    }
+    public string Name = "Eirik";
+    public int Age = 35;
+    public List<string> interests =
+    [
+        "Coding",
+        "Gaming",
+        "Parenting",
+        "Formula 1",
+        "Weighlifting",
+        "Cycling",
+    ];
 }
 ```
 
