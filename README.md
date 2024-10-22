@@ -8,15 +8,15 @@ namespace Eirik
     {
         public string Name = "Eirik";
         public int Age = 35;
-        public List<string> interests = new()
-        {
+        public List<string> interests =
+        [
             "Coding",
             "Gaming",
             "Parenting",
             "Formula 1",
             "Weighlifting",
             "Cycling"
-        };
+        ];
     }
 }
 ```
