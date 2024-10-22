@@ -1,10 +1,9 @@
-# Hello 👋
+## Hello 👋
 
 
 I'm currently studying at a coding bootcamp called Kodehode, where I’m specializing in backend development. I have a strong focus on C#, and I enjoy building scalable, efficient systems that solve real-world problems. I’m always excited to learn new technologies and improve my skills through hands-on projects.<br><br>
 
-### About me:
-
+## About me:
 ```csharp
 public class Person
 {
